@@ -4,7 +4,6 @@
  * binary_tree_insert_left - main.
  * @parent: nodo.
  * @value: int
- * 
  * Return: nodo
  **/
 
