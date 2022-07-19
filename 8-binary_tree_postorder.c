@@ -3,8 +3,7 @@
 /**
  * binary_tree_postorder - main.
  * @tree: tree
- * @func: func
- *  
+ * @func: func 
  **/
 
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
