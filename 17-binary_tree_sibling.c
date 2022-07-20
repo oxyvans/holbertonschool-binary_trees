@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_sibling - main.
- * @nodo: nodo
+ * @node: nodo
  * Return: nodo
  **/
 

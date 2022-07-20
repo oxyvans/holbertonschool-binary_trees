@@ -3,7 +3,7 @@
 
 /**
  * binary_tree_uncle - main.
- * @nodo: nodo
+ * @node: nodo
  * Return: nodo
  **/
 
